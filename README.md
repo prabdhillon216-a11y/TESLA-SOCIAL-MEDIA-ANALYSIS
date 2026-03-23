@@ -1,0 +1,2 @@
+This project focuses on analyzing Tesla’s social media performance using Microsoft Excel. The objective is to extract meaningful insights from engagement data across different platforms and understand how Tesla’s content performs in terms of audience interaction.
+The project demonstrates strong data analysis skills including data cleaning, transformation, visualization, and insight generation using Excel.
